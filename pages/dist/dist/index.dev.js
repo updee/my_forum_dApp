@@ -186,7 +186,7 @@ var postABI_json_1 = require("../utils/postABI.json");
 var postManagerABI_json_1 = require("../utils/postManagerABI.json");
 
 function Home() {
-  var postManagerContract = "0xb8EEFA0F443968aEa5e4929f70c5304B014EF70F"; //postManager smart contract address
+  var postManagerContract = "0x4d437A151C476E743E740E8Fb7FE85a45836FADE"; //postManager smart contract address
   //variables
 
   var _a = react_1.useState(""),
